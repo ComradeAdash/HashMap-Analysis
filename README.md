@@ -1,4 +1,4 @@
-# Hashmap Mini Project
+# Hashmap Mini Project CMPT 295
 
 A C++ project comparing linear probing, separate chaining, `std::unordered_map`, and Sparsepp. The goal is to see how hash quality, memory locality, and branch prediction affect insertion and lookup.
 
